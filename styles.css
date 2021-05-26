@@ -1,0 +1,27 @@
+body{
+    background-image: url('./bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: monospace;
+}
+
+.container{
+    align-items: center;
+}
+.card{
+    height: auto;
+    margin-top: 10vh;
+    margin-bottom: auto;
+    width: 400px;
+    text-align: center;
+    
+    background-color: rgba(255,255,255,0.7) !important;
+}
+.card-header{
+    background-color: rgba(193, 72, 191,0.3) !important;
+}
+
+.btn-primary{
+    background-color: rgba(193, 72, 191,0.3) !important;
+}
